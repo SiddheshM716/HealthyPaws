@@ -20,7 +20,7 @@
 
 <!-- Add actual screenshots here -->
 <p float="left">
-  <img src="screenshots/image1.png" alt="Image 1" width="25%">
+    <img src="screenshots/image1.png" alt="Image 1" width="25%">
     <img src="screenshots/image2.png" alt="Image 2" width="25%">
     <img src="screenshots/image3.png" alt="Image 3" width="25%">
     <img src="screenshots/image4.png" alt="Image 4" width="25%">
